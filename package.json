@@ -1,0 +1,11 @@
+{
+  "name": "testbackend",
+  "version": "0.0.1",
+  "description": "Test Backend ITTalent",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alberto Luebbert M. - alberto@ideashappy.com",
+  "license": "MIT"
+}
